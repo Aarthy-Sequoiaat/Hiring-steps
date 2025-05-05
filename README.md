@@ -1,0 +1,2 @@
+# Hiring-steps
+Bug list
